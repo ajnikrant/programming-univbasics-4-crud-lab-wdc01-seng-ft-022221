@@ -28,7 +28,7 @@ end
 
 def retrieve_element_from_index(array, index_number)
   new_array = ["I", "am", "ready"]
-  p new_array[2]
+  p new_array[1]
 end
 
 def retrieve_first_element_from_array(array)
